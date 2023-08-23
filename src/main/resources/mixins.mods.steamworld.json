@@ -1,0 +1,7 @@
+{
+"package": "com.asylumdev.steamworldpatcher.mixin",
+"refmap": "mixins.steamworldpatcher.refmap.json",
+"minVersion": "0.8",
+"compatibilityLevel": "JAVA_8",
+  "mixins": ["OldSkyMixin"]
+}
